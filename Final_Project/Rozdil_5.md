@@ -3,7 +3,7 @@
 <h3>5.1. Діаграма послідовності: Авторизація клієнта</h3>
 
 <p>
-![Діаграма авторизації клієнта](../images/auth_sequence.png)
+<img src="../images/auth_sequence.png" alt="Діаграма авторизації клієнта" width="800">)
 </p>
 
 <p>
@@ -15,7 +15,7 @@
 <h3>5.2. Діаграма послідовності: Виконання грошового переказу</h3>
 
 <p>
-<img src="images/transfer_sequence.png" alt="Діаграма грошового переказу" width="800">
+<img src="../images/transfer_sequence.png" alt="Діаграма грошового переказу" width="800">
 </p>
 
 <p>
